@@ -1,0 +1,4 @@
+mp4ToJpeg:
+	>python mp4ToJpeg
+	>videoName
+
